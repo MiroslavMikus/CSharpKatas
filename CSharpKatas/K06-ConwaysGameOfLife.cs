@@ -39,7 +39,7 @@ namespace CSharpKatas
     }
 
     [TestFixture]
-    [Ignore]
+    [Ignore("")]
     public class TestGameOfLife
     {
         [Test]

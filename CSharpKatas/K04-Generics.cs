@@ -31,7 +31,7 @@ namespace CSharpKatas
     }
 
     [TestFixture]
-    [Ignore]
+    [Ignore("")]
     public class TestGenerics
     {
         [Test]

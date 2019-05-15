@@ -17,7 +17,7 @@ namespace CSharpKatas
     }
 
     [TestFixture]
-    [Ignore]
+    [Ignore("")]
     public class LinqProvidersTest
     {
         [Test]

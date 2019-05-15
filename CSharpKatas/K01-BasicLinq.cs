@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using System.Linq;
 
 namespace CSharpKatas
 {
@@ -14,7 +15,7 @@ namespace CSharpKatas
     }
 
     [TestFixture]
-    [Ignore]
+    [Ignore("")]
     public class Test
     {
         [Test]
